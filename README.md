@@ -29,7 +29,7 @@ VS装饰器
 - 装饰器：扩展功能，原有功能不变可直接使用。
 - 代理：原有功能，经过限制之后的。
 #### 观察者模式
-DOM事件绑定，Promise，Node的EventEmitter自定义事件，Vue和React设革命周期的触发，Vue和Mobx的watch。
+DOM事件绑定，Promise，Node的EventEmitter自定义事件，Vue和React声明命周期的触发，Vue和Mobx的watch。
 
 #### 迭代器模式
 ES6 Iterator, [Symbol.iterator], ES6中有序数据类型（Array,Map,Set,String,arguments,NodeList）。generator函数返回结果实现了iterator。
